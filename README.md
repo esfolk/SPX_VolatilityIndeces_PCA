@@ -26,7 +26,7 @@ This repository contains an exploratory analysis of various financial indices, i
 
 2. **Navigate to the Directory**:
     ```
-    cd [repository-name]
+    cd [SPX_VolatilityIndeces_PCA]
     ```
 
 3. **Install Required Libraries** (assuming you have `pip` installed):

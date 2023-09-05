@@ -21,7 +21,7 @@ This repository contains an exploratory analysis of various financial indices, i
 
 1. **Clone the Repository**:
     ```
-    git clone [repository-link]
+    git clone [https://github.com/esfolk/SPX_VolatilityIndeces_PCA.git]
     ```
 
 2. **Navigate to the Directory**:
@@ -55,4 +55,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ---
 
-Note: The placeholders like `[repository-link]` and `SPX_VolatilityIndeces_PCA` should be replaced with the actual links or names relevant to your GitHub repository. Adjust the Quick Start steps based on your repository structure and any additional steps you might have.
+Note: The placeholders like `https://github.com/esfolk/SPX_VolatilityIndeces_PCA.git` and `SPX_VolatilityIndeces_PCA` should be replaced with the actual links or names relevant to your GitHub repository. Adjust the Quick Start steps based on your repository structure and any additional steps you might have.

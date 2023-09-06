@@ -1,8 +1,5 @@
 # SPX_VolatilityIndeces_PCA
 
-Certainly! A GitHub README should be concise and provide a clear overview of the project, its objectives, and how to run or use the provided code. Below is a summary tailored for a GitHub README:
-
----
 
 ## PCA Analysis on Financial Indices
 
